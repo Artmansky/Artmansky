@@ -5,8 +5,8 @@
 
 - 💬 Ask me about **Anything**
 
-<a href="https://github.com/artmansk/github-stats#gh-dark-mode-only">
-<img src="https://github.com/artmansk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<p align="center"
+![]https://github.com/artmansk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only
 <img src="https://github.com/artmansk/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/artmansk/github-stats#gh-light-mode-only">
