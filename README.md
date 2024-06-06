@@ -5,11 +5,13 @@
 
 - 💬 Ask me about **Anything**
 
+<h3 align="center">
 ![](https://github.com/Artmansky/langStats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/Artmansky/langStats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 ![](https://github.com/Artmansky/langStats/blob/master/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/Artmansky/langStats/blob/master/generated/languages.svg#gh-light-mode-only)
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
