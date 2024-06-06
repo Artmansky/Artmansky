@@ -5,14 +5,12 @@
 
 - 💬 Ask me about **Anything**
 
-<p align="center"
-![]https://github.com/artmansk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only
-<img src="https://github.com/artmansk/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/artmansk/github-stats#gh-light-mode-only">
-<img src="https://github.com/artmansk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-<img src="https://github.com/artmansk/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-</a>
+<p align="center">
+![](https://github.com/artmansk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/artmansk/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/artmansk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only)
+![](https://github.com/artmansk/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
