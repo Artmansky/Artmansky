@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **Anything**
 
+<div align="center">
+
 <a href="https://github.com/Artmansky/github-stats#gh-dark-mode-only">
 <img src="https://github.com/Artmansky/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/Artmansky/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
@@ -13,6 +15,8 @@
 <img src="https://github.com/Artmansky/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
 <img src="https://github.com/Artmansky/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a>
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
