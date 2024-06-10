@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! Thomas here.</h1>
-<h3 align="left">I'm 3rd year IT student at Silesian University of Technology. It's my official github where I post my work.</h3>
+<h3 align="left">I am 3rd year IT student at Silesian University of Technology. It's my official github where I post my work.</h3>
 
-- 🌱 I’m currently learning **Rust programming and Android developement using Kotlin**
+- 🌱 I’m currently learning **Android developement using Kotlin**
 
 - 💬 Ask me about **Anything**
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tom-artmansky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom-artmansky" height="30" width="40" /></a>
 <a href="https://instagram.com/artmanskyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artmanskyy" height="30" width="40" /></a>
