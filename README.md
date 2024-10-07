@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! Thomas here.</h1>
-<h3 align="left">I am 3rd year IT student at Silesian University of Technology. It's my official github where I post my work.</h3>
+<h3 align="left">I am 4th year IT student at Silesian University of Technology. It's my official github where I post my work.</h3>
 
 - 🌱 I’m currently learning **Android developement using Kotlin**
 
